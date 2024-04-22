@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, I'm Maxwell
 
-<!--
-**maxwellrv/maxwellrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am lifelong learner who loves to take challenges head on in the amazing world of Tech.
+My tech adventure is only beginning, but along the way, I hope and aspire to gain a professional position as a security engineer building friendships and fortresses along the way.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Domain Environment Operation                  | Active Directory Project|
+| SIEM Event Ingestion                          | Active Directory Project|
+| Telemetry Generation                          | Active Directory Project|
+
+## Projects
+- Active Directory Project
