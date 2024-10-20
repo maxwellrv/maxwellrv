@@ -11,6 +11,7 @@ This page is primarily meant to help myself document new topics and other source
 | VM Technology                                 | Downloading VM Software   |
 | VM Desktop Deployment                          | Creating Windows Desktop VM|
 |Python                                         |  Python Crash Course        |
+|Security Fundamentals                          | Security Plus Notes          |
 
 ## Certifications (Earning)
 <div>
@@ -22,3 +23,4 @@ This page is primarily meant to help myself document new topics and other source
 -  Creating Windows Desktop VM
 -  Windows AD Configuration-Utilization
 -  Python Crash Course
+- Security Plus Notes 
