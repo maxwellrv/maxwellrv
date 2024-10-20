@@ -10,6 +10,7 @@ This page is primarily meant to help myself document new topics and other source
 | Microsoft Active Directory                    | Windows AD Configuration-Utilization   |
 | VM Technology                                 | Downloading VM Software   |
 | VM Desktop Deployment                          | Creating Windows Desktop VM|
+|Python                                         |  Python Crash Course        |
 
 ## Certifications (Earning)
 <div>
@@ -20,3 +21,4 @@ This page is primarily meant to help myself document new topics and other source
 -  Downloading VM Software
 -  Creating Windows Desktop VM
 -  Windows AD Configuration-Utilization
+-  Python Crash Course
