@@ -2,6 +2,8 @@
 
 I am a SOC L1 Analyst who loves to take challenges head on in the amazing world of Tech. 
 This page is primarily meant to help myself document new topics and other sources of interest when it comes to cybersecurity. I thoroughly enjoy pushing myself to find a different perspective when coming up with solutions in security. Please come along, check out my publications, and possibly learn something new.
+check out my Linkedin inf youre interested
+https://www.linkedin.com/in/maxwell-vargas-ab6379302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ## Skills
 
